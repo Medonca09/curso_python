@@ -1,4 +1,4 @@
-# Exercício da aula 8, onde devemos trazer os dados através das variáveis
+# Exercício da aula 8, onde devemos trazer os dados através das variáveis e tipos de dados
 
 nome = 'Lucas'
 sobrenome = 'Mendonça'
